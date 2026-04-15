@@ -73,5 +73,5 @@ B.Tech Computer Science Engineering *(AI & Data Science)*
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/Samruddhig125">GitHub</a> • 
-  <a href="YOUR_LINKEDIN_LINK">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/samruddhi-ghanwat-197a1224b/">LinkedIn</a>
 </p>
