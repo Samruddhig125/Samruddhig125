@@ -44,10 +44,6 @@ B.Tech Computer Science Engineering *(AI & Data Science)*
 ---
 ## GitHub Analytics Dashboard
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Samruddhig125&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samruddhig125&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Samruddhig125&theme=tokyonight&hide_border=true" />
