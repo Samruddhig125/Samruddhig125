@@ -41,16 +41,7 @@ B.Tech Computer Science Engineering *(AI & Data Science)*
 📅 Aug 2022 – July 2026  
 📈 CGPA: **8.17 / 10**
 
----
-## GitHub Analytics Dashboard
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Samruddhig125&theme=tokyonight&hide_border=true" />
-</p>
-
-
----
 
 ## 🌐 Connect With Me
 
